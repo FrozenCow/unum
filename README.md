@@ -9,7 +9,7 @@ Note that at the moment the project is mostly used for personal projects where w
 ## Installation
 
 ```js
-npm install udum
+npm install unum
 ```
 
 ## Usage
