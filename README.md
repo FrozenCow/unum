@@ -26,6 +26,8 @@ app.ws('/hellowebsocket',function(ctx) {
 });
 ```
 
+Look in [examples/](examples/) for more examples.
+
 ## Context
 
 In Unum handlers are defined as `function(ctx){...}`. `ctx` is the context of the handler. The context can contain properties like `req`, `res` and `next`, but also things like `params`.
