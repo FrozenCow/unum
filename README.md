@@ -4,7 +4,13 @@ Unum is an [Express](http://expressjs.com/)-like framework that unifies better i
 
 Note that at the moment the project is mostly used for personal projects where websockets play a big role. It is therefore not very well documented, tests are lacking and you might also come across various bugs.
 
-## Example
+## Installation
+
+```js
+npm install udum
+```
+
+## Usage
 
 Here is a minimal example of how to use Unum. It shows how to handle normal HTTP requests (just like Express) and websocket requests.
 
