@@ -1,6 +1,6 @@
 # Unum
 
-Unum is an [Express](http://expressjs.com/)-like framework that allows better integration of routes for websockets and server-side events. It is based around passing a context-object around, instead of individual request and response objects. This allows the framework to be more flexible in what information is passed to handlers and thus allows not just handling normal HTTP requests, but also websocket requests.
+Unum is an [Express](http://expressjs.com/)-like framework that unifies better integration of websockets and server-side events, next to the usual HTTP requests. It is based around passing a context-object around, instead of individual request and response objects. This allows the framework to be more flexible in what information is passed to handlers. With the context-objects, not only HTTP requests can be passed, but also also websocket requests.
 
 Note that at the moment the project is mostly used for personal projects where websockets play a big role. It is therefore not very well documented and you might also come across various bugs.
 
