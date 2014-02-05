@@ -1,6 +1,6 @@
 {
   "name": "unum",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "Express-like framework that unifies the way HTTP, websockets and server-side events are handled.",
   "main": "index.js",
   "keywords": [
